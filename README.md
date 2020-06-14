@@ -9,7 +9,7 @@ pwd <br>
 <!--'mkdir' creates a new directory-->
 <!--'pwd' prints working directory-->
 
-## Git
+## Git Commands
 git status <br>
 <!--output displays status of current working directory-->
 git add (filename) <br>
