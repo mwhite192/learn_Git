@@ -1,22 +1,22 @@
 # learn_Git
 ## Bash
 ls <br> 
+-List files and folders in current director <br>
 cd (directory name) <br> 
+-Changes directory <br>
 mkdir (directory name) <br> 
+-Creates a new directory <br>
 pwd <br>
-<!--'ls' list files in current directory-->
-<!--'cd' changes directory-->
-<!--'mkdir' creates a new directory-->
-<!--'pwd' prints working directory-->
+-Prints working directory <br>
 
 ## Git Commands
 git status <br>
-<!--output displays status of current working directory-->
+-Output displays status of current working directory <br>
 git add (filename) <br>
-<!--adds file to staging area-->
+-Adds file to staging area <br>
 git commit -m"good commit message" <br>
-<!--save file changes-->
+-Saves file changes <br>
 git push <br>
-<!--sends changes to remote repository (github)-->
+-Sends changes to remote repository <br>
 git log <br>
-<!--output displays all commits of working directory-->
+-Output displays all commits of working directory from newest to oldest <br>
